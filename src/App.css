@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+  font-weight: 600;
+  margin-top: 50vh;
+}
+
+li{
+  border: .25rem solid;
+  list-style: none;
+}
+li:hover
+{
+  cursor: pointer;
+}
